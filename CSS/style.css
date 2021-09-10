@@ -18,7 +18,7 @@ h3 {
 }
 
 h1 {
-  font-size: 96px;
+  font-size: 60px;
 }
 
 h2 {
@@ -33,9 +33,17 @@ p {
   font-size: 18px;
   line-height: 1.5;
 }
+a {
+  text-decoration: none;
+  color: grey;
+}
 
 .container-fluid {
   margin: 60;
+}
+
+.container {
+  text-align: center;
 }
 
 .projects {
@@ -123,19 +131,19 @@ p {
   }
 
   h1 {
-    font-size: 35px !important;
+    font-size: 45px;
   }
 
   h2 {
-    font-size: 30px !important;
+    font-size: 30px;
   }
 
   h3 {
-    font-size: 21px !important;
+    font-size: 21px;
   }
 
   h5 {
-    font-size: 14px !important;
+    font-size: 14px;
   }
 
   .email-link {
