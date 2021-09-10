@@ -8,13 +8,13 @@ body {
   margin: 0 auto;
   padding-top: 100px;
   width: 100%;
+  text-align: center;
 }
 
 h1,
 h2,
 h3 {
   margin: 0;
-  text-align: center;
 }
 
 h1 {
@@ -75,6 +75,10 @@ footer i {
 footer i:hover {
   color: var(--secondary-color);
   background-color: #6c63ff;
+}
+
+.contentContainer {
+  padding: 0 40px;
 }
 
 .container-fluid {
